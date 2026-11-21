@@ -1,0 +1,30 @@
+{
+  "title": "The Brain Does Not Fill the Skull: A 42-Species Occupancy Audit Finds Ruler Chaos, Not a Constant",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Fossil encephalisation quotients rest on an identity: that endocranial volume (ECV) — the volume inside the skull — equals brain volume, an occupancy of 100%. This paper joins the two literatures that measure the two sides of that identity and computes occupancy directly. Under a pre-registered protocol, we joined endocast volumes (Dembitzer et al., 2022; Waugh & Thewissen, 2021; Sakai et al., 2016) to brain volumes (the Patzke et al., 2015 compilation; the same sources' paired values; Brain Catalogue MRI) for 42 mammal species — a far smaller overlap than either literature suggests. Median occupancy is 0.919 (IQR 0.824–0.973), but only 40.5% of species land inside the 90–100% band the identity implies, and 19.0% exceed 100% — physically impossible values that diagnose ruler mismatch rather than biology. The cleanest arm, 26 species with brain and ECV from the same source, gives a median of 0.920 with none above 100%; a bridge arm pairing modern endocasts with the histology-lineage brain compilation gives a median of 1.010, with 60% of species above 100%. Whole orders sit outside the band (Artiodactyla 0.79, Cetacea 0.79, Perissodactyla 0.84), and the largest modern ECV dataset silently back-calculates endocast volume from brain volume for 149 of its species — an assumed ~90% occupancy wearing a lab coat. Credit where it is due: that occupancy varies and is not 100% is Waugh & Thewissen's (2021) established result — a directly measured range of 33–98%, with the bowhead as their outlier — and this audit builds on their paired table. What the audit adds is the cross-compilation picture, and it is the sharper half: the field's rulers disagree by more than the shortfall itself, and the largest modern ECV dataset's back-calculation is a circularity — an assumed occupancy encoded as if it were a measurement. No single occupancy constant survives contact with the joined data. Keywords: endocranial volume; encephalisation quotient; occupancy; comparative neuroanatomy; measurement; pre-registration",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "brain volume",
+    "endocranial volume",
+    "occupancy",
+    "comparative neuroanatomy",
+    "archive audit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/occupancy-audit",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
